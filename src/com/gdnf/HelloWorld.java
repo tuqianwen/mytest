@@ -7,5 +7,6 @@ public class HelloWorld {
 		System.out.println("GitTest");
 		
 		System.out.println("update");
+		System.out.println("update two");
 	}
 }
